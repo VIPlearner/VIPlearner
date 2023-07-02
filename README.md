@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @VIPlearner
-- 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning how to work with STM32 boards
+
 
 
 <!---
